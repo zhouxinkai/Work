@@ -1,0 +1,1 @@
+若要得到console_2有B，C两个进程在屏幕上打印字符B和C，请在e/kernel/main.c中修改函数TestB()和函数TestC()
