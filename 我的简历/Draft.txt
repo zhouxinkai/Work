@@ -16,3 +16,9 @@ Python的练手项目，我在aiohttp的基础之上做了进一步的封装，�
 2. 熟悉关系型数据库和常用的NoSQL数据库及MQ消息队列
 3. 熟悉Javascript，了解HTML、CSS
 4. 熟悉Linux平台环境的开发，掌握Linux常用命令。
+Bootstrap
+Bootstrap
+AngularJS
+http://devicesecurity.trendmicro.com/
+http://www.brucezhou.com/
+https://github.com/zhouxinkai
